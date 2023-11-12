@@ -24,7 +24,7 @@ Apart from coding, you'll find me on the basketball court, perfecting my jump sh
 
 ## 🎥 Content Creation
 
-I love creating content that bridges the gap between technology and storytelling. Check out my [YouTube Channel](link-to-your-channel) for tech insights, coding tutorials, and more!
+I love creating content that bridges the gap between technology and storytelling. Check out my [YouTube Channel](http://www.youtube.com/@THE1O1dude) for tech insights, coding tutorials, and more!
 
 ## Let's Connect
 
