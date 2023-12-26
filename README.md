@@ -11,7 +11,7 @@ I'm a tech enthusiast and creative web developer with a knack for HTML, CSS, and
 
 ## 🌱 What I'm Learning
 
-I'm on a journey to master JavaScript, bringing interactivity to the web one line of code at a time.
+I'm on a journey to master JavaScript, C#, bringing interactivity to the web one line of code at a time.
 
 ## 🏀 When I'm Not Coding
 
